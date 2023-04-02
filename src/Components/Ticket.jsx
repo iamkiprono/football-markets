@@ -10,11 +10,11 @@ const Ticket = ({ title, date, price, odds, games }) => {
           <i>Price: {price}/=</i>
         </p>
         <p>Date: {date}</p>
-        <h2>odds: {odds}</h2>
+        <h2>Odds: {odds}</h2>
         <h4>No of games: {games}</h4>
         <h4>TILL NO: XXXXXX</h4>
         <a target="_blank" href="https://wa.me/+254700000000">
-          Buy now
+          Buy ticket now!!
         </a>
       </div>
     </div>

@@ -1,14 +1,19 @@
 .ticket-wrapper {
   width: 350px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
   padding: 10px;
   text-align: center;
   border: 1px solid #fff;
   margin: 20px 0;
+  height: 400px;
 }
 .ticket-wrapper a {
   border: 1px solid #fff;
   padding: 5px;
-  margin-top: 10px;
+
   color: rgb(83, 236, 96);
+  
  
 }
