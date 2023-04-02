@@ -1,0 +1,14 @@
+.ticket-wrapper {
+  width: 350px;
+  padding: 10px;
+  text-align: center;
+  border: 1px solid #fff;
+  margin: 20px 0;
+}
+.ticket-wrapper a {
+  border: 1px solid #fff;
+  padding: 5px;
+  margin-top: 10px;
+  color: rgb(83, 236, 96);
+ 
+}
