@@ -4,6 +4,7 @@ import Navbar from "./Components/Navbar";
 import Homepage from "./Components/Homepage";
 import Tickets from "./Components/Tickets";
 import Jackpot from "./Components/Jackpot";
+import Winnings from "./Components/Winnings";
 
 const App = () => {
   return (
@@ -14,6 +15,7 @@ const App = () => {
       </div>
       <Jackpot />
       <Tickets title={"VIP"} />
+      <Winnings/>
     </div>
   );
 };
