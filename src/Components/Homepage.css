@@ -12,6 +12,15 @@
     text-align: center;
 
 }
+.till-text a{
+    color: #fff;
+    border: 1px solid;
+}
+.home-text{
+    text-align: center;
+    border: solid 1px ;
+    padding: 5px;
+}
 
 
 

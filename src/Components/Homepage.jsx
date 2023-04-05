@@ -6,9 +6,9 @@ const Homepage = () => {
     <div>
       <div className="homepage-wrapper">
         <div className="home-text">
-          <h2>
-            <i>💯100% FIXED MATCHES💯</i>
-          </h2>
+          <h3>
+            <i>💯100% GUARANTEED WIN💯</i>
+          </h3>
         </div>
         <div className="till-no-banner">
           <img
@@ -17,10 +17,11 @@ const Homepage = () => {
           />
         </div>
         <div className="till-text">
-            <h2>TILL NUMBER: XXXXXX</h2>
-            <p>SUBSCRIBE for Analyzed Sure Matches Correct score
-          matches Buy our TICKETS and stand a chance to WIN BIG!!!</p>
-           
+          <h2>TILL NUMBER: XXXXXX</h2>
+          <p>
+            SUBSCRIBE for Analyzed Sure Matches & correct scores.
+            <a target="_blank" href="https://wa.me/+254700000000">Buy</a> our TICKETS now and stand a chance to WIN BIG!!!
+          </p>
         </div>
       </div>
     </div>
