@@ -20,7 +20,10 @@ const Homepage = () => {
           <h2>TILL NUMBER: XXXXXX</h2>
           <p>
             SUBSCRIBE for Analyzed Sure Matches & correct scores.
-            <a target="_blank" href="https://wa.me/+254700000000">Buy</a> our TICKETS now and stand a chance to WIN BIG!!!
+            <a target="_blank" href="https://wa.me/+254700000000">
+              Buy
+            </a>{" "}
+            our TICKETS now and stand a chance to WIN BIG!!!
           </p>
         </div>
       </div>

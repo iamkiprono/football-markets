@@ -9,8 +9,8 @@ const Navbar = () => {
         </div>
         <div className="navlinks">
             <ul>
+                <li><a href="#jackpot">Jackpot</a></li>
                 <li><a href="#tickets">Tickets</a></li>
-                <li><a href="">Jackpot</a></li>
                 <li><a href="">Winnings</a></li>
                 <li><a href="">Contact</a></li>
             </ul>

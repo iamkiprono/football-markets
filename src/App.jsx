@@ -3,6 +3,7 @@ import "../src/App.css";
 import Navbar from "./Components/Navbar";
 import Homepage from "./Components/Homepage";
 import Tickets from "./Components/Tickets";
+import Jackpot from "./Components/Jackpot";
 
 const App = () => {
   return (
@@ -11,8 +12,8 @@ const App = () => {
         <Navbar />
         <Homepage />
       </div>
+      <Jackpot />
       <Tickets title={"VIP"} />
-      
     </div>
   );
 };
