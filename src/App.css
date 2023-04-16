@@ -12,10 +12,11 @@
   color: #fff;
 }
 
- .navlinks a {
+.navlinks a {
   color: #fff;
   margin-left: 20px;
 }
+
 nav {
   display: flex;
   align-items: center;
@@ -24,13 +25,12 @@ nav {
   margin: auto;
   padding: 20px;
 }
-.navlinks{
+.navlinks {
   display: flex;
   align-items: center;
 }
-.socials{
-display: flex;
-
+.socials {
+  display: flex;
 }
 .navlinks ul {
   display: flex;
@@ -38,8 +38,8 @@ display: flex;
 }
 
 @media (max-width: 800px) {
-  .navlinks ul, .socials {
+  .navlinks ul,
+  .socials {
     flex-direction: column;
   }
- 
 }

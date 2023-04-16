@@ -2,7 +2,7 @@ import React from "react";
 import { FaWhatsapp,FaTelegramPlane } from "react-icons/fa"
 const Navbar = () => {
   return (
-    <div>
+    <div className="navbar">
       <nav>
         <div className="logo">
           <h1>BL Tips</h1>
