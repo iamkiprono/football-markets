@@ -1,1 +1,1 @@
-https://kiprono-collins-portfolio.netlify.app
+https://bl-tips.netlify.app
